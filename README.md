@@ -1,6 +1,4 @@
 # Map_Navigator_in_C
- 
-# Map_Navigator_in_C
  # Project: Map Navigator
 
 ## Description
